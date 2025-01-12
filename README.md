@@ -1,8 +1,7 @@
 
-  <h3 align="left"> About Me</h3>
+  <h3 align="left"> 🧑‍🎓 About Me</h3>
 
-  <p align="left">
-    I'm Karthik Ganesh, a passionate graduate student at San Jose State University pursuing a Master's in Artificial Intelligence 🧑‍🎓.<br><br>
+  <p align="left">  
     - 🔭 I’m currently working on Machine Learning and Artificial Intelligence projects 💻🤖<br>
     - 📚 I'm exploring Deep Learning, NLP, and recommender systems<br>
     - 🤝 I'm looking to collaborate on AI/ML Projects<br>
