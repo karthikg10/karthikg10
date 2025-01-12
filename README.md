@@ -66,7 +66,7 @@
   </div>
 
  <h3 align="left">💡 Random Dev Quote</h3>
-  <p align="left" style="color: skyblue; font-weight: bold;">
+  <p align="left" style="color: blue; font-weight: bold;">
     “Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine
   </p>
 
