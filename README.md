@@ -1,5 +1,5 @@
 
-  <h3 align="left">👩‍💻 About Me</h3>
+  <h3 align="left"> About Me</h3>
 
   <p align="left">
     I'm Karthik Ganesh, a passionate graduate student at San Jose State University pursuing a Master's in Artificial Intelligence 🧑‍🎓.<br><br>
