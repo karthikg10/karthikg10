@@ -64,5 +64,11 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </div>
+
+   <h3 align="left">💡 Random Dev Quote</h3>
+  <blockquote align="left">
+    “Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine
+  </blockquote>
+  
 </body>
-</html>
+
