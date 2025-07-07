@@ -7,7 +7,7 @@
     - 🤝 I'm looking to collaborate on AI/ML Projects<br>
     - 🌟 I'm seeking Summer 2025 internships and full-time opportunities in AI/ML<br>
     - ⚡ In my free time, I enjoy exploring innovative AI solutions and reading tech blogs<br>
-    - 📧 How to reach me: [karthikganesh.ma@gmail.com](mailto:karthikganesh.ma@gmail.com)
+    - 📧 How to reach me: <a href="mailto:karthikganesh.ma@gmail.com">karthikganesh.ma@gmail.com</a>
   </p>
 
   <h3 align="left">🛠 Tech Stack</h3>
