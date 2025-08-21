@@ -2,12 +2,14 @@
   <h3 align="left"> 🧑‍🎓 About Me</h3>
 
   <p align="left">  
-    - 🔭 I’m currently working on Machine Learning and Artificial Intelligence projects 💻🤖<br>
-    - 📚 I'm exploring Deep Learning, NLP, and recommender systems<br>
-    - 🤝 I'm looking to collaborate on AI/ML Projects<br>
-    - 🌟 I'm seeking Summer 2025 internships and full-time opportunities in AI/ML<br>
-    - ⚡ In my free time, I enjoy exploring innovative AI solutions and reading tech blogs<br>
-    - 📧 How to reach me: <a href="mailto:karthikganesh.ma@gmail.com">karthikganesh.ma@gmail.com</a>
+    💻🤖 I’m currently working on Machine Learning and Artificial Intelligence projects  
+
+- 📚 Exploring **Deep Learning**, **Natural Language Processing (NLP)**, and **Recommender Systems**  
+- 🤝 Open to collaborating on **AI/ML projects**  
+- 🌟 Actively seeking **full-time opportunities** in **AI/ML**, **Cloud**, **GPU Optimization**, and **System Software-GPU**  
+- ⚡ In my free time, I enjoy building innovative AI solutions and reading tech blogs  
+- 📧 How to reach me: [karthikganesh.ma@gmail.com](mailto:karthikganesh.ma@gmail.com)  
+
   </p>
 
   <h3 align="left">🛠 Tech Stack</h3>
