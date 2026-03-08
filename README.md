@@ -1,77 +1,83 @@
+# Karthik Ganesh Malini
 
-  <h3 align="left"> 🧑‍🎓 About Me</h3>
+**GPU Systems Engineer · LLM Inference · CUDA · PyTorch**
 
-  <p align="left">  
-    💻🤖 I’m currently working on Machine Learning and Artificial Intelligence projects  
+MS Artificial Intelligence @ San Jose State University  
+Seeking full-time roles in GPU Systems, AI Infrastructure, and LLM Inference Engineering
 
-- 📚 Exploring **Deep Learning**, **Natural Language Processing (NLP)**, and **Recommender Systems**  
-- 🤝 Open to collaborating on **AI/ML projects**  
-- 🌟 Actively seeking **full-time opportunities** in **AI/ML**, **Cloud**, **GPU Optimization**, and **System Software-GPU**  
-- ⚡ In my free time, I enjoy building innovative AI solutions and reading tech blogs  
-- 📧 How to reach me: [karthikganesh.ma@gmail.com](mailto:karthikganesh.ma@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-ganesh-m-0b7a921a0/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikganesh.ma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karthikg10)
 
-  </p>
+---
 
-  <h3 align="left">🛠 Tech Stack</h3>
+## About
 
-  <div align="left">
-    <h4>Programming Languages:</h4>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Objective--C-1575F9?style=for-the-badge&logo=apple&logoColor=white" alt="Objective-C" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </div>
+I specialize in **GPU-accelerated AI systems** — from writing hand-tuned CUDA kernels to optimizing end-to-end LLM inference pipelines. My work spans kernel-level performance engineering (CUDA, AVX2, TensorRT) through to full multimodal AI systems deployed on edge and datacenter hardware.
 
-  <div align="left">
-    <h4>Machine Learning/AI:</h4>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="mlflow" />
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </div>
+Currently finishing my MS thesis on **Multimodal LLMs for Visual Question Answering**, where I designed a BLIVA-inspired two-stage training framework with custom GPU-accelerated pipelines.
 
-  <div align="left">
-    <h4>Web Technologies:</h4>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular.js" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  </div>
+---
 
-  <div align="left">
-    <h4>Cloud & Tools:</h4>
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/nVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="nVIDIA" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
-  </div>
+## Core Projects
 
-  <div align="left">
-    <h4>Version Control:</h4>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </div>
+| Repository | Description | Stack |
+|---|---|---|
+| [cuda-parallel-algorithms](https://github.com/karthikg10/cuda-parallel-algorithms) | Foundational GPU primitives: reduction, scan, sort, histogram | CUDA C++ |
+| [cuda-kernels-and-primitives](https://github.com/karthikg10/cuda-kernels-and-primitives) | CNN kernels, AVX2 GEMM, custom PyTorch ops, MF-SGD | CUDA, C++, AVX2, PyTorch |
+| [llm-inference-optimization](https://github.com/karthikg10/llm-inference-optimization) | Fused attention, TensorRT INT8, VLM serving, world model | CUDA, TensorRT, SGLang |
+| [multimodal-ai-agents](https://github.com/karthikg10/multimodal-ai-agents) | VQA model + Physical AI robotics agent | PyTorch, vLLM, TensorRT |
+| [RAG-based-chatbot](https://github.com/karthikg10/RAG-based-chatbot) | Retrieval-Augmented Generation chatbot with vector search and LLM integration | Python, LangChain, FAISS |
 
- <h3 align="left">💡 Random Dev Quote</h3>
-  <p align="left" style="color: blue; font-weight: bold;">
-    “Programming isn’t about what you know; it’s about what you can figure out.” – Chris Pine
-  </p>
+---
 
+## Technical Skills
 
-</body>
+**GPU Programming**
+`CUDA C/C++` `Kernel Fusion` `Shared Memory Optimization` `Warp Primitives` `Nsight Compute` `Nsight Systems`
 
+**AI Inference & Optimization**
+`TensorRT` `INT8/FP16 Quantization` `vLLM` `SGLang` `ONNX Runtime` `Mixed Precision Training`
+
+**HPC & Systems**
+`OpenMP` `SIMD / AVX2` `MPI` `Cache Blocking` `Memory Bandwidth Optimization` `Roofline Analysis`
+
+**Frameworks & Tools**
+`PyTorch` `CUDA Python` `pybind11` `Docker` `CMake` `Linux` `Git`
+
+---
+
+## Experience
+
+**Software Engineer Intern — AI Performance** · Infocareer Pvt Ltd · *Jan 2025 – Dec 2025*  
+Optimized DL inference pipelines with custom C++ bindings and TensorRT, achieving 2× throughput on NVIDIA GPUs. Profiled GPU kernels with Nsight Systems to improve SM occupancy and memory access patterns.
+
+**Graduate Research Assistant — HPC & ML Systems** · SJSU · *Sept 2023 – Dec 2024*  
+Researched parallel algorithms for Multimodal LLM training. Implemented mixed-precision training and gradient checkpointing for fine-tuning Llama-2-70B on limited hardware. Reduced CPU-GPU idle time by 20% through synchronization tuning.
+
+**Software Engineer — C++ & Systems** · Champion InfoMetrics · *Aug 2021 – Jul 2023*  
+Integrated custom CUDA kernels into legacy C++ pipelines achieving 10× speedup on dense matrix workloads. Built high-throughput data ingestion engine handling 50K queries/minute.
+
+---
+
+## Certifications
+
+- **NVIDIA Certified Professional** — Generative AI LLMs
+- **NVIDIA Certified Associate** — Generative AI Multimodal
+
+---
+
+## Education
+
+**MS, Artificial Intelligence** · San Jose State University · *2023 – 2025*  
+Thesis: *Multimodal LLMs for Visual Question Answering with GPU-Accelerated Pipelines*
+
+**BE, Computer Science & Engineering** · Visvesvaraya Technological University · *2018 – 2022*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikg10&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikg10&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
+</p>
