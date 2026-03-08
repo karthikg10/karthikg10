@@ -1,6 +1,6 @@
 # Karthik Ganesh Malini
 
-**GPU Systems Engineer · LLM Inference · CUDA · PyTorch**
+**GPU Systems Engineer · LLM Inference · Agentic AI · RAG Systems**
 
 MS Artificial Intelligence @ San Jose State University  
 Seeking full-time roles in GPU Systems, AI Infrastructure, and LLM Inference Engineering
@@ -15,7 +15,7 @@ Seeking full-time roles in GPU Systems, AI Infrastructure, and LLM Inference Eng
 
 I specialize in **GPU-accelerated AI systems** — from writing hand-tuned CUDA kernels to optimizing end-to-end LLM inference pipelines. My work spans kernel-level performance engineering (CUDA, AVX2, TensorRT) through to full multimodal AI systems deployed on edge and datacenter hardware.
 
-Currently finishing my MS thesis on **Multimodal LLMs for Visual Question Answering**, where I designed a BLIVA-inspired two-stage training framework with custom GPU-accelerated pipelines.
+Beyond systems work, I build **Agentic AI** pipelines — multi-step reasoning agents with tool use, memory, and planning — and **RAG systems** that combine vector search with LLMs to deliver accurate, grounded responses over large document corpora.
 
 ---
 
@@ -38,6 +38,9 @@ Currently finishing my MS thesis on **Multimodal LLMs for Visual Question Answer
 
 **AI Inference & Optimization**
 `TensorRT` `INT8/FP16 Quantization` `vLLM` `SGLang` `ONNX Runtime` `Mixed Precision Training`
+
+**Agentic & RAG Systems**
+`LangChain` `LlamaIndex` `FAISS` `Vector Databases` `Tool Use` `ReAct Agents` `Memory & Planning`
 
 **HPC & Systems**
 `OpenMP` `SIMD / AVX2` `MPI` `Cache Blocking` `Memory Bandwidth Optimization` `Roofline Analysis`
@@ -69,15 +72,22 @@ Integrated custom CUDA kernels into legacy C++ pipelines achieving 10× speedup 
 
 ## Education
 
-**MS, Artificial Intelligence** · San Jose State University · *2023 – 2025*  
-Thesis: *Multimodal LLMs for Visual Question Answering with GPU-Accelerated Pipelines*
+**MS, Artificial Intelligence** · San Jose State University · *2023 – 2025*
 
 **BE, Computer Science & Engineering** · Visvesvaraya Technological University · *2018 – 2022*
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikg10&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikg10&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikg10&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikg10&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=86400" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karthikg10&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthikg10&color=0e75b6&style=flat&label=Profile+Views"/>
 </p>
