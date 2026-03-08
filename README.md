@@ -50,18 +50,6 @@ Beyond systems work, I build **Agentic AI** pipelines — multi-step reasoning a
 
 ---
 
-## Experience
-
-**Software Engineer Intern — AI Performance** · Infocareer Pvt Ltd · *Jan 2025 – Dec 2025*  
-Optimized DL inference pipelines with custom C++ bindings and TensorRT, achieving 2× throughput on NVIDIA GPUs. Profiled GPU kernels with Nsight Systems to improve SM occupancy and memory access patterns.
-
-**Graduate Research Assistant — HPC & ML Systems** · SJSU · *Sept 2023 – Dec 2024*  
-Researched parallel algorithms for Multimodal LLM training. Implemented mixed-precision training and gradient checkpointing for fine-tuning Llama-2-70B on limited hardware. Reduced CPU-GPU idle time by 20% through synchronization tuning.
-
-**Software Engineer — C++ & Systems** · Champion InfoMetrics · *Aug 2021 – Jul 2023*  
-Integrated custom CUDA kernels into legacy C++ pipelines achieving 10× speedup on dense matrix workloads. Built high-throughput data ingestion engine handling 50K queries/minute.
-
----
 
 ## Certifications
 
@@ -76,18 +64,4 @@ Integrated custom CUDA kernels into legacy C++ pipelines achieving 10× speedup 
 
 **BE, Computer Science & Engineering** · Visvesvaraya Technological University · *2018 – 2022*
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikg10&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikg10&layout=compact&theme=dark&hide_border=true&langs_count=6&cache_seconds=86400" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karthikg10&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthikg10&color=0e75b6&style=flat&label=Profile+Views"/>
-</p>
