@@ -15,7 +15,7 @@ Open to full-time roles in AI / ML Engineering, LLM Inference, and AI Infrastruc
 
 ## About
 
-AI Engineer with ~5 years of experience across backend, infrastructure, and applied ML. I work across the full stack of modern AI systems:
+AI Engineer with ~4 years of experience across backend, infrastructure, and applied ML. I work across the full stack of modern AI systems:
 
 - **Applied AI & LLM systems** — RAG pipelines, agentic workflows, and multimodal models, with a focus on grounded, production-ready behavior.
 - **Performance, inference & infrastructure** — GPU-accelerated training and inference, efficient fine-tuning, observability, and the platform layer (Kubernetes, CI/CD) that makes ML systems actually run.
