@@ -62,4 +62,5 @@ AI Engineer with ~4 years of experience across backend, infrastructure, and appl
 ## Education
 
 **MS, Artificial Intelligence** · San Jose State University · *2023 – 2025*
+
 **BE, Computer Science & Engineering** · Visvesvaraya Technological University · *2018 – 2022*
