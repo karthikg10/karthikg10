@@ -1,55 +1,56 @@
 # Karthik Ganesh Malini
 
-**GPU Systems Engineer · LLM Inference · Agentic AI · RAG Systems**
+**AI Engineer · LLM Systems · Agentic AI · RAG · GPU & Inference**
 
-MS Artificial Intelligence @ San Jose State University  
-Seeking full-time roles in GPU Systems, AI Infrastructure, and LLM Inference Engineering
+MS Artificial Intelligence @ San Jose State University
+NVIDIA Certified in Generative AI & LLMs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-ganesh-m-0b7a921a0/)
+Open to full-time roles in AI / ML Engineering, LLM Inference, and AI Infrastructure.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikganeshm/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikganesh.ma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/karthikg10)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://karthikganesh.dev/)
 
 ---
 
 ## About
 
-I specialize in **GPU-accelerated AI systems** — from writing hand-tuned CUDA kernels to optimizing end-to-end LLM inference pipelines. My work spans kernel-level performance engineering (CUDA, AVX2, TensorRT) through to full multimodal AI systems deployed on edge and datacenter hardware.
+AI Engineer with ~5 years of experience across backend, infrastructure, and applied ML. I work across the full stack of modern AI systems:
 
-Beyond systems work, I build **Agentic AI** pipelines — multi-step reasoning agents with tool use, memory, and planning — and **RAG systems** that combine vector search with LLMs to deliver accurate, grounded responses over large document corpora.
+- **Applied AI & LLM systems** — RAG pipelines, agentic workflows, and multimodal models, with a focus on grounded, production-ready behavior.
+- **Performance, inference & infrastructure** — GPU-accelerated training and inference, efficient fine-tuning, observability, and the platform layer (Kubernetes, CI/CD) that makes ML systems actually run.
+- **Scalable backend & data systems** — high-throughput services and pipelines built with production engineering practices.
 
 ---
 
-## Core Projects
+## Projects
 
 | Repository | Description | Stack |
 |---|---|---|
-| [cuda-parallel-algorithms](https://github.com/karthikg10/cuda-parallel-algorithms) | Foundational GPU primitives: reduction, scan, sort, histogram | CUDA C++ |
-| [cuda-kernels-and-primitives](https://github.com/karthikg10/cuda-kernels-and-primitives) | CNN kernels, AVX2 GEMM, custom PyTorch ops, MF-SGD | CUDA, C++, AVX2, PyTorch |
-| [llm-inference-optimization](https://github.com/karthikg10/llm-inference-optimization) | Fused attention, TensorRT INT8, VLM serving, world model | CUDA, TensorRT, SGLang |
-| [multimodal-ai-agents](https://github.com/karthikg10/multimodal-ai-agents) | VQA model + Physical AI robotics agent | PyTorch, vLLM, TensorRT |
-| [RAG-based-chatbot](https://github.com/karthikg10/RAG-based-chatbot) | Retrieval-Augmented Generation chatbot with vector search and LLM integration | Python, LangChain, FAISS |
+| [multimodal-ai-agents](https://github.com/karthikg10/multimodal-ai-agents) | Multimodal VQA model and agent pipeline | PyTorch, vLLM |
+| [RAG-based-chatbot](https://github.com/karthikg10/RAG-based-chatbot) | Retrieval-Augmented Generation chatbot with vector search | Python, LangChain, FAISS |
+| [llm-inference-optimization](https://github.com/karthikg10/llm-inference-optimization) | Experiments in inference optimization and serving | CUDA, TensorRT, vLLM |
+| [cuda-parallel-algorithms](https://github.com/karthikg10/cuda-parallel-algorithms) | GPU primitives: reduction, scan, sort, histogram | CUDA C++ |
+| [cuda-kernels-and-primitives](https://github.com/karthikg10/cuda-kernels-and-primitives) | CNN kernels, GEMM, custom PyTorch ops | CUDA, C++, PyTorch |
+| [Transformer_implementation](https://github.com/karthikg10/Transformer_implementation) | Transformer architecture from scratch | Python, PyTorch |
 
 ---
 
 ## Technical Skills
 
-**GPU Programming**
-`CUDA C/C++` `Kernel Fusion` `Shared Memory Optimization` `Warp Primitives` `Nsight Compute` `Nsight Systems`
+**AI / ML & LLMs**
+`PyTorch` `TensorFlow` `Hugging Face` `LangChain` `LlamaIndex` `RAG` `Fine-Tuning (LoRA/QLoRA)` `Multimodal AI`
 
-**AI Inference & Optimization**
-`TensorRT` `INT8/FP16 Quantization` `vLLM` `SGLang` `ONNX Runtime` `Mixed Precision Training`
+**Inference & GPU**
+`CUDA` `vLLM` `TensorRT` `Quantization (INT8/FP16)` `Mixed Precision` `GPU Profiling`
 
-**Agentic & RAG Systems**
-`LangChain` `LlamaIndex` `FAISS` `Vector Databases` `Tool Use` `ReAct Agents` `Memory & Planning`
+**Backend & Data**
+`Python` `Go` `C++` `FastAPI` `Node.js` `PostgreSQL` `Redis` `Kafka` `gRPC` `REST`
 
-**HPC & Systems**
-`OpenMP` `SIMD / AVX2` `MPI` `Cache Blocking` `Memory Bandwidth Optimization` `Roofline Analysis`
-
-**Frameworks & Tools**
-`PyTorch` `CUDA Python` `pybind11` `Docker` `CMake` `Linux` `Git`
+**Infra & Cloud**
+`Docker` `Kubernetes` `Terraform` `AWS` `GCP` `GitHub Actions` `Prometheus` `Grafana`
 
 ---
-
 
 ## Certifications
 
@@ -61,7 +62,4 @@ Beyond systems work, I build **Agentic AI** pipelines — multi-step reasoning a
 ## Education
 
 **MS, Artificial Intelligence** · San Jose State University · *2023 – 2025*
-
 **BE, Computer Science & Engineering** · Visvesvaraya Technological University · *2018 – 2022*
-
-
