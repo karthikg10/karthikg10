@@ -1,11 +1,10 @@
 # Karthik Ganesh Malini
-
-**AI Engineer · LLM Systems · Agentic AI · RAG · GPU & Inference**
-
+**AI Engineer · LLM Systems · Agentic AI · RAG · Autonomous Systems · GPU & Inference**
 MS Artificial Intelligence @ San Jose State University
+
 NVIDIA Certified in Generative AI & LLMs
 
-Open to full-time roles in AI / ML Engineering, LLM Inference, and AI Infrastructure.
+Open to full-time roles in AI / ML Engineering, Autonomous Systems, LLM Inference, and AI Infrastructure.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikganeshm/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:karthikganesh.ma@gmail.com)
@@ -14,17 +13,16 @@ Open to full-time roles in AI / ML Engineering, LLM Inference, and AI Infrastruc
 ---
 
 ## About
-
 AI Engineer with ~4 years of experience across backend, infrastructure, and applied ML. I work across the full stack of modern AI systems:
 
 - **Applied AI & LLM systems** — RAG pipelines, agentic workflows, and multimodal models, with a focus on grounded, production-ready behavior.
+- **ML for autonomous systems & safety validation** — generative scenario synthesis, out-of-distribution detection, and conformal prediction for calibrated uncertainty in safety-critical ML.
 - **Performance, inference & infrastructure** — GPU-accelerated training and inference, efficient fine-tuning, observability, and the platform layer (Kubernetes, CI/CD) that makes ML systems actually run.
 - **Scalable backend & data systems** — high-throughput services and pipelines built with production engineering practices.
 
 ---
 
 ## Projects
-
 | Repository | Description | Stack |
 |---|---|---|
 | [multimodal-ai-agents](https://github.com/karthikg10/multimodal-ai-agents) | Multimodal VQA model and agent pipeline | PyTorch, vLLM |
@@ -37,9 +35,11 @@ AI Engineer with ~4 years of experience across backend, infrastructure, and appl
 ---
 
 ## Technical Skills
-
 **AI / ML & LLMs**
 `PyTorch` `TensorFlow` `Hugging Face` `LangChain` `LlamaIndex` `RAG` `Fine-Tuning (LoRA/QLoRA)` `Multimodal AI`
+
+**Autonomous Systems & Safety ML**
+`Scenario Synthesis` `Conditional VAEs` `OOD Detection` `Conformal Prediction` `Closed-Loop Simulation` `Autonomy Metrics`
 
 **Inference & GPU**
 `CUDA` `vLLM` `TensorRT` `Quantization (INT8/FP16)` `Mixed Precision` `GPU Profiling`
@@ -53,14 +53,12 @@ AI Engineer with ~4 years of experience across backend, infrastructure, and appl
 ---
 
 ## Certifications
-
 - **NVIDIA Certified Professional** — Generative AI LLMs
 - **NVIDIA Certified Associate** — Generative AI Multimodal
 
 ---
 
 ## Education
-
 **MS, Artificial Intelligence** · San Jose State University · *2023 – 2025*
 
 **BE, Computer Science & Engineering** · Visvesvaraya Technological University · *2018 – 2022*
